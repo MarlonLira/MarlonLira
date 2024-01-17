@@ -2,7 +2,6 @@
 
 Here are some points about me:
 - 😄 I’m graduate in Information Systems
-- ⚡ I’m co-founder of Gymtime 
 - 🔭 I’m currently working at Avanade
 - 📚 I'm currently learning about microservices
 - 🎮 I’m interested in games, pop culture and almost everything related to technology
